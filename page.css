@@ -64,7 +64,7 @@ header ul {
   list-style:none;
   
 }
-.list-inline>li{display:inline-block;padding-right:5px}
+.list-inline>li{display:inline-block;padding-right:10px}
 
 header ul li {
   font-weight: 700;
