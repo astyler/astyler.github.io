@@ -61,7 +61,6 @@ header h1 a:hover {
 }
 header ul {
   margin: 25px 0 0;
-  padding-left:10;
   list-style:none;
   
 }
@@ -69,7 +68,6 @@ header ul {
 
 header ul li {
   font-weight: 700;
-  padding-bottom: 20px;
   color: #888;
 }
 .current{
