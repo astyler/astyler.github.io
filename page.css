@@ -10,6 +10,11 @@ body {
 a {
   color: #888;
   text-decoration: none;
+  -webkit-transition: .3s;
+  -moz-transition: .3s;
+  -o-transition: .3s;
+  -ms-transition: .3s;
+  transition: .3s;
 }
 
 a:hover {
@@ -25,12 +30,6 @@ a:hover span {
     color: #0C63b0;
 }
 
-a, a span {
-    -webkit-transition: color .3s ease-in-out;
-    -moz-transition: color .3s ease-in-out;
-    -o-transition: color .3s ease-in-out;
-    transition: color .3s ease-in-out;
-}
 
 ul, ol {
   padding-left: 25px;
